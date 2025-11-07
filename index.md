@@ -23,3 +23,5 @@ Select an app below to view details, screenshots, FAQs, and troubleshooting:
 As we release more apps, we'll add them here. Check back often!
 
 Last updated: November 2025
+
+© 2025 Neon Grid Studios. All rights reserved.
