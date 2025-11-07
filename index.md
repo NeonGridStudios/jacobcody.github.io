@@ -13,7 +13,7 @@ For general inquiries, we'll respond within 24-48 hours.
 
 ## Current Apps Available
 Select an app below to view details, screenshots, FAQs, and troubleshooting:
-[EZTip Pro](./eztippro)
+[EZTip Pro](./eztippro.md)
 
 
 
