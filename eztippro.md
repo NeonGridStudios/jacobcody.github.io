@@ -10,10 +10,9 @@ Thanks for using EZTip Pro, our smart tip calculator app! Below are FAQs and tip
 - **Key Features**: Custom tip slider, bill splitting up to 100 people, one-tap Apple Maps reviews, Siri integration, light/dark mode.
 
 ## Screenshots
-<image-card alt="EZTip Pro Screenshot" src="/screenshot.png" ></image-card>  
+ 
 *Enter your bill and adjust tip percentage in real-time.*
-
-(Upload more screenshots to your repo and add embeds like above if needed.)
+![image alt](https://github.com/NeonGridStudios/jacobcody.github.io/blob/2d7655d014d1aa989d7dad50aa4653a91d3dab02/IMG_4029.jpg)
 
 ## Frequently Asked Questions
 - **How do I calculate a tip?** Enter your bill, select a preset percentage or use the slider, and results update instantly.
