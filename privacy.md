@@ -15,4 +15,4 @@ EZTip Pro is a simple tip calculator app. We respect your privacy.
 For questions, email: neonhelp.studios@gmail.com
 
 Neon Grid Studios  
-support@neongridstudios.com
+- **X (Twitter)**: [@neon_gridx](https://x.com/neon_gridx)
