@@ -13,7 +13,7 @@ Thanks for using EZTip Pro, our smart tip calculator app! Below are FAQs and tip
 ## Screenshots
  
 *Enter your bill and adjust tip percentage in real-time.*
-![image alt](https://github.com/NeonGridStudios/jacobcody.github.io/blob/2d7655d014d1aa989d7dad50aa4653a91d3dab02/IMG_4029.jpg)
+![image alt](https://raw.githubusercontent.com/NeonGridStudios/jacobcody.github.io/2d7655d014d1aa989d7dad50aa4653a91d3dab02/IMG_4029.jpg)
 
 ## Frequently Asked Questions
 - **How do I calculate a tip?** Enter your bill, select a preset percentage or use the slider, and results update instantly.
