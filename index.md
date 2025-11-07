@@ -8,7 +8,7 @@ Neon Grid Studios specializes in mobile app development, blending creativity wit
 ## Main Contact Info
 - **Email**: [neonhelp.studios@gmail.com](mailto:neonhelp.studios@gmail.com)
 - **X (Twitter)**: [@neon_gridx](https://x.com/neon_gridx)
-- **App Privacy**: [Read our Privacy Policy](/privacy)
+- **App Privacy**: [Read our Privacy Policy](./privacy)
   
 For general inquiries, we'll respond within 24-48 hours.
 
