@@ -1,6 +1,7 @@
 # EZTip Pro Support
 
 Thanks for using EZTip Pro, our smart tip calculator app! Below are FAQs and tips to get the most out of it. If your question isn't covered, contact us via the main page.
+![image alt](https://github.com/NeonGridStudios/jacobcody.github.io/blob/17537f55a4567cc7df0c439dbbe20db8e22b3d3d/ChatGPT%20Image%20Oct%2015%2C%202025%2C%2001_35_02%20PM.png)
 
 ## App Overview
 - **Version**: 1.0
