@@ -25,6 +25,6 @@ Thanks for using EZTip Pro, our smart tip calculator app! Below are FAQs and tip
 - **App crashes on launch?** Ensure iOS is up to date and restart your device.
 - **Location not working?** Go to Settings > EZTip Pro > Location > Allow "While Using the App".
 
-For more help, return to the [main support page](/) or email us at [neonhelp.studios@gmail.com](mailto:neonhelp.studios@gmail.com).
+For more help, return to the [main support page](../) or email us at [neonhelp.studios@gmail.com](mailto:neonhelp.studios@gmail.com).
 
 Last updated: November 2025
