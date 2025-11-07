@@ -12,7 +12,8 @@ EZTip Pro is a simple tip calculator app. We respect your privacy.
 - **Apple Maps**: Used for the "Review" feature. See Apple's privacy policy.
 
 ## Contact
-For questions, email: neonhelp.studios@gmail.com
+For questions, 
+- **Email**: [neonhelp.studios@gmail.com](mailto:neonhelp.studios@gmail.com)
 
 Neon Grid Studios  
 - **X (Twitter)**: [@neon_gridx](https://x.com/neon_gridx)
