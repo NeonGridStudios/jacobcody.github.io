@@ -6,7 +6,6 @@ Thanks for using EZTip Pro, our smart tip calculator app! Below are FAQs and tip
 
 ## App Overview
 - **Version**: 1.0
-- **Price**: $0.99
 - **Platforms**: iOS
 - **Key Features**: Custom tip slider, bill splitting up to 100 people, one-tap Apple Maps reviews, Siri integration, light/dark mode.
 
@@ -19,7 +18,7 @@ Thanks for using EZTip Pro, our smart tip calculator app! Below are FAQs and tip
 - **How do I calculate a tip?** Enter your bill, select a preset percentage or use the slider, and results update instantly.
 - **What if the keyboard blocks totals?** The app scrolls automatically to keep everything visible.
 - **How does the "Review" button work?** It opens Apple Maps to your current location for easy feedback—grant location permission when prompted.
-- **Does it support Siri?** Yes! Say "Hey Siri, calculate a 20% tip on $50 for 4 people with EZTip Pro."
+- **Does it support Siri?** Yes! Say "Hey Siri, open EZTip Pro."
 - **Currency issues?** It uses your device's local currency. If not showing correctly, check your iOS settings.
 
 ## Troubleshooting
