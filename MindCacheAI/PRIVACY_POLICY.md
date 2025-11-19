@@ -31,5 +31,5 @@ MindCachèAI does not collect any information and is safe for users of all ages.
 
 ## Contact
 If you have any privacy questions, you can contact the developer at:  
-**[your email here]**
+neonhelp.studios@gmail.com
 
