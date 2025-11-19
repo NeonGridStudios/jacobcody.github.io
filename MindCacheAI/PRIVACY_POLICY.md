@@ -1,5 +1,5 @@
 # MindCachèAI — Privacy Policy
-**Last Updated: [INSERT DATE]**
+**Last Updated: Nov.19th 2025**
 
 MindCachèAI is designed with privacy as a core principle. This app does not track you, identify you, or send your data to any external servers. All recordings and transcripts remain fully on your device unless you explicitly choose to share them.
 
