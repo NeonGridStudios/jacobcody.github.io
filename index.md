@@ -16,8 +16,12 @@ For general inquiries, we'll respond within 24-48 hours.
 
 ## Current Apps Available
 Select an app below to view details, screenshots, FAQs, and troubleshooting:
+
 [EZTip Pro](./eztippro.md)
 
+- **MindCachèAI**  
+  A fully private, on-device voice journaling assistant with transcription, summaries, and secure Face ID access.  
+  👉 [View the MindCachèAI Project](https://github.com/YourUserName/MindCacheAI)
 
 
 As we release more apps, we'll add them here. Check back often!
