@@ -21,7 +21,8 @@ Select an app below to view details, screenshots, FAQs, and troubleshooting:
 
 **MindCachèAI**  
   A fully private, on-device voice journaling assistant with transcription, summaries, and secure Face ID access.  
-  👉 [View the MindCachèAI Project](https://github.com/YourUserName/MindCacheAI)
+  👉 [MindCacheAI](MindCacheAI/)
+
 
 
 As we release more apps, we'll add them here. Check back often!
