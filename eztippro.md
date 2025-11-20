@@ -3,7 +3,7 @@
 Thanks for using EZTip Pro, our smart tip calculator app! Below are FAQs and tips to get the most out of it. If your question isn't covered, contact us via the main page.
 
 ## App Overview
-- **Version**: 1.0
+- **Version**: 1.2
 - **Platforms**: iOS
 - **Key Features**: Custom tip slider, bill splitting up to 100 people, one-tap Apple Maps reviews, Siri integration, light/dark mode.
 
